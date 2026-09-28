@@ -15,17 +15,17 @@
 }
 :root {
   /* 配色层级：墨绿主标题、古铜次标题、深灰正文、香槟色细线。 */
-  --text: #343c38;
+  --text: #69706d;
   --muted: #6d746d;
   --accent: #42635b;
   --heading: #254a40;
-  --subheading: #7c6348;
-  --gold: #b8a27d;
+  --subheading: #f1d7ba;
+  --gold: #745e39;
   --heading-wash: #edf1ea;
   --body-size: 19px;
   --title-size: 32px;
   --line: #e1ddd3;
-  --background: #fbfaf6;
+  --background: #f9fcfd;
 }
 * { box-sizing: border-box; }
 html { scroll-padding-top: 94px; scroll-behavior: smooth; }
